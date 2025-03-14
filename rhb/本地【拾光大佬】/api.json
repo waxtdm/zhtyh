@@ -96,6 +96,19 @@
       "api": "./lib/lf_live10_min-output.js",
       "ext": "./lib/lf_live.json"
     },
+	{
+      "key": "小苹果弹幕",
+      "name": "小苹果弹幕",
+      "type": 3,
+      "api": "csp_Xpg",
+      "jar": "./lib/天道.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
 		
     {
 			"key": "央视大全",
