@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Govin",
+        "url": "https://slink.ltd/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
+    },
+    {
+        "name": "拾光",
+        "url": "https://slink.ltd/https://raw.githubusercontent.com/xmbjm/TV/refs/heads/master/output/user_result.txt"
+    },
+    {
+        "name": "范明明",
+        "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
+    },
+    {
+        "name": "大葱MyTV",
+        "url": "https://tv.iill.top/m3u/MyTV"
+    },
+    {
+        "name": "大葱Gather",
+        "url": "https://tv.iill.top/m3u/Gather"
+    },
+    {
+        "name": "大葱Live",
+        "url": "https://tv.iill.top/m3u/Live"
+    },
+    {
+        "name": "大葱Sport",
+        "url": "https://tv.iill.top/m3u/Sport"
+    },
+    {
+        "name": "天微",
+        "url": "https://7337.kstore.space/twkj/tvzb.txt"
+    }
+]

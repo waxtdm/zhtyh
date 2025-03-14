@@ -1,0 +1,25 @@
+{
+    "warningText": "低调使用！！！",
+    "urls": [
+        {
+            "name": "📚【拾光大佬】",
+            "url": "file://tvboxTw/本地【拾光大佬】/api.json"
+        },
+        {
+            "name": "📚【超大杯】｜本地仓库📚",
+            "url": "file://tvboxTw/本地【超大杯】/api.json"
+        },
+        {
+            "name": "📚【拾光VIP4K】｜本地仓库📚",
+            "url": "file://tvboxTw/本地【拾光VIP4K】/api.json"
+        },
+        {
+            "name": "📚【天微VIP线】｜本地仓库📚",
+            "url": "file://tvboxTw/本地【天微VIP线】/api.json"
+        },
+        {
+            "name": "📚【无敌凯少】｜本地仓库📚",
+            "url": "file://tvboxTw/本地【无敌凯少】/api.json"
+        }
+    ]
+}
