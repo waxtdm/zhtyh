@@ -4,10 +4,31 @@
   "logo": "https://qixing.myhkw.com/tw.jpg",
   "warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "lives": [
+    
+    
+    {
+      "name": "天微live喵",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 2,
+      "ua": "okhttp/5.0.0-alpha.14",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }, 
     {
       "name": "天微MTV",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+      "playerType": 2,
+      "ua": "okhttp/5.0.0-alpha.14",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    
+    {
+      "name": "天微live1",
+      "type": 0,
+      "url": "./lib/测试.txt",
       "playerType": 2,
       "ua": "okhttp/5.0.0-alpha.14",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -25,7 +46,7 @@
     },    
         {
       "key": "豆dou",
-      "name": "公众号:天微科技(3月10更)",
+      "name": "公众号:天微科技(3月11更)",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -45,17 +66,14 @@
       },
       "jar": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/wex.jar"
     },
+    
     {
-      "key": "ConfigCenter",
-      "name": "《配置｜中心》",
+      "key": "config",
+      "name": "《配置┃中心》",
       "type": 3,
-      "api": "csp_ConfigCenter",
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/zx.jar",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./jspn/peizhi.json"
-      }
+      "api": "csp_Config",
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/Pa.jar",
+      "playerType": 2
     },
     {
       "key": "网络直播",
@@ -340,73 +358,75 @@
       }
     },
     {
-      "key": "玩偶 | 小米",
-      "name": "《小米💿UC_4K》",
+      "key": "csp_FeiMaoUC",
+      "name": "《闪电💿UC盘4K》",
       "type": 3,
-      "api": "csp_kongbai",
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/zx.jar",
-      "searchable": 1,
-      "changeable": 0,
+      "api": "csp_Duopan",
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/Pa.jar",
+      "filterable": 1,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
-        "siteUrl": "https://www.milvdou.fun/",
-        "filter": "./json/wogg.json"
+        "site_urls": [
+          "http://1.95.79.193/"
+        ],
+        "url_key": "FeiMaoUC"
+      }
+    },
+        {
+      "key": "csp_XMUC",
+      "name": "《小米💿UC盘4K》",
+      "type": 3,
+      "api": "csp_Duopan",
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/Pa.jar",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "http://www.mucpan.cc",
+          "https://milvdou.fun",
+          "https://54271.fun"
+        ],
+        "url_key": "XMUC"
       }
     },
     {
-      "key": "玩偶 | 闪电uc",
-      "name": "《闪电💿UC_4K》",
+      "key": "csp_Duopan",
+      "name": "《蜡笔💿网盘4K》",
       "type": 3,
-      "api": "csp_kongbai",
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/zx.jar",
-      "searchable": 1,
-      "changeable": 0,
+      "api": "csp_Duopan",
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/Pa.jar",
+      "filterable": 1,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
-        "siteUrl": "http://1.95.79.193/",
-        "filter": "./json/wogg.json"
+        "site_urls": [
+          "https://feimao666.fun",
+          "http://feimao888.fun",
+          "http://feimaoai.site",
+          "http://www.labi88.sbs"
+        ],
+        "url_key": "Duopan2"
       }
     },
+
     {
-      "key": "玩偶 | 二小",
-      "name": "《二小💿网盘4K》",
+      "key": "csp_Netfixtv",
+      "name": "《至臻💿网盘4K》",
       "type": 3,
-      "api": "csp_kongbai",
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/zx.jar",
-      "searchable": 1,
-      "changeable": 0,
+      "api": "csp_Duopan",
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/Pa.jar",
+      "filterable": 1,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
-        "siteUrl": "https://erxiaofn.click/",
-        "filter": "./json/wogg.json"
-      }
-    },
-    {
-      "key": "玩偶 | 多多",
-      "name": "《多多💿网盘4K》",
-      "type": 3,
-      "api": "csp_kongbai",
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/zx.jar",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./json/peizhi.json",
-        "siteUrl": "http://tv.yydsys.top/",
-        "filter": "./json/wogg.json"
-      }
-    },
-    {
-      "key": "星剧社",
-      "name": "《夸克💿网盘4K》",
-      "type": 3,
-      "api": "csp_Star2",
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/zx.jar",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "siteUrl": "https://star.banye.tech:7086/",
-        "commonConfig": "./json/peizhi.json"
+        "site_urls": [
+          "http://xiaomi666.fun",
+          "https://xiaomiai.site",
+          "http://www.miqk.cc",
+          "https://mihdr.top"
+        ],
+        "url_key": "Netfixtv2",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 450,
+          "threads": 10
+        }
       }
     },
     {
