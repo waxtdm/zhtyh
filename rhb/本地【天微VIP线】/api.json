@@ -230,17 +230,21 @@
                 "简介": "🍁凯少爷🍁水印广告勿信，谨防诈骗🍁"
             }
         },
-        {
-            "key": "晴天4K",
-            "name": "晴天4K",
-            "type": 3,
-            "api": "./py/晴天APP.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
+		{
+				"key": "晴天1080p",
+				"name": "晴天1080p",
+		  "type": 3,
+		  "quickSearch": 1,
+		  "api": "csp_AppGet",
+		  "jar": "./lib/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+		  "ext": {
+			"url": "https://appcms.sun4k.top",
+			"dataKey": "b025dcd9c289cbb3",
+			"dataIv": "b025dcd9c289cbb3",
+			"deviceId": "",
+			"version": ""
+		  }
+		},
         {
             "key": "巧技三2",
             "name": "巧技三┃4K",
