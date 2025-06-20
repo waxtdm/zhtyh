@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "限自用测试 禁传播贩卖（6月20更）"
+      "name": "限自用测试 禁传播贩卖",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
