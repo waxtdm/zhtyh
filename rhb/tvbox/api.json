@@ -1398,8 +1398,8 @@
             "filterable": 1
         },
 		{
-            "key": "xml_玉兔资源",
-            "name": "玉兔资源(🐉)",
+            "key": "玉兔采集资源",
+            "name": "玉兔",
             "type": 0,
             "api": "https://apiyutu.com/api.php/provide/vod/at/xml",
             "searchable": 1,
