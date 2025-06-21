@@ -1,13 +1,14 @@
 {
     "warningText": "低调使用！！！",
     "urls": [
-        {
-            "name": "📚【拾光大佬】",
-            "url": "https://github.ednovas.xyz/raw.githubusercontent.com/waxtdm/zhtyh/main/rhb/本地【拾光大佬】/api.json"
-        },
+
         {
             "name": "📚【天微VIP线】｜本地仓库📚",
             "url": "https://github.ednovas.xyz/raw.githubusercontent.com/waxtdm/zhtyh/main/rhb/本地【天微VIP线】/api.json"
+        },
+		{
+            "name": "📚【拾光大佬】",
+            "url": "https://github.ednovas.xyz/raw.githubusercontent.com/waxtdm/zhtyh/main/rhb/本地【拾光大佬】/api.json"
         },
         {
             "name": "📚【王二小】｜在线📚",
