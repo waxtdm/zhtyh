@@ -1397,6 +1397,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
+		{
+            "key": "xml_金马资源",
+            "name": "金马资源(🐉)",
+            "type": 0,
+            "api": "https://api.jmzy.com/api.php/provide/vod/at/xml",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "天涯┃资源",
             "name": "天涯资源(🐉)",
