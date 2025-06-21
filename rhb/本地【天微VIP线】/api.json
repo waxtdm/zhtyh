@@ -597,7 +597,7 @@
       "playerType": 1,
       "ext": "http://api2.rinhome.com"
     },
-  {
+    {
             "key": "盘Ta",
             "name": "盘Ta网盘🐉4k",
             "type": 3,
@@ -610,7 +610,16 @@
                 "siteUrl": "https://www.91panta.cn/",
                 "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
             }
-        },	
+        },
+        {
+            "key": "移动",
+            "name": "移动网盘🐉4K",
+            "type": 3,
+            "api": "csp_YDjisu",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://700sjro44343.vicp.fun/vip/jar/ouge.php"
+        },
     {
       "key": "玩偶哥哥",
       "name": "💿玩偶🔹盘4K",
