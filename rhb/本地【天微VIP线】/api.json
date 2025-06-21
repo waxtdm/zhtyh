@@ -605,7 +605,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "jar": "./jar/wpzy.jar",
+            "jar": "./lib/wpzy.jar",
             "ext": {
                 "siteUrl": "https://www.91panta.cn/",
                 "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
