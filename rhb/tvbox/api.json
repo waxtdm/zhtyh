@@ -1390,7 +1390,7 @@
     },
     {
             "key": "xml_茅台资源",
-            "name": "茅台资源(🐉)",
+            "name": "茅台资源(🐦‍🔥)",
             "type": 0,
             "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
             "searchable": 1,
@@ -1458,7 +1458,7 @@
         },	
 		{
             "key": "xml_金马资源",
-            "name": "金马资源(🐉)",
+            "name": "金马资源(🐦‍🔥)",
             "type": 0,
             "api": "https://api.jmzy.com/api.php/provide/vod/at/xml",
             "searchable": 1,
@@ -1467,7 +1467,7 @@
         },
         {
             "key": "天涯┃资源",
-            "name": "天涯资源(🐉)",
+            "name": "天涯资源(🐦‍🔥)",
             "type": 1,
             "api": "https://ty.tyyszy5.com/api.php/provide/vod/",
             "searchable": 1,
@@ -1476,7 +1476,7 @@
         },
         {
             "key": "爱奇艺资源",
-            "name": "爱奇资源(🐉)",
+            "name": "爱奇资源(🐦‍🔥)",
             "type": 1,
             "api": "https://iqiyizyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -1485,7 +1485,7 @@
         },
         {
             "key": "天翼影视",
-            "name": "天翼资源(🐉)",
+            "name": "天翼资源(🐦‍🔥)",
             "type": 1,
             "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
             "searchable": 1,
@@ -1494,7 +1494,7 @@
         },
         {
             "key": "火狐",
-            "name": "火狐资源(🐉)",
+            "name": "火狐资源(🐦‍🔥)",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -1529,7 +1529,7 @@
         },
         {
             "key": "豆瓣采集资源",
-            "name": "豆瓣资源(🐉)",
+            "name": "豆瓣资源(🐦‍🔥)",
             "type": 1,
             "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
             "playerType": 1,
@@ -1538,7 +1538,7 @@
         },
         {
             "key": "华为采集资源",
-            "name": "华为资源(🐉)",
+            "name": "华为资源(🐦‍🔥)",
             "type": 1,
             "api": "https://huawei8.live/api.php/provide/vod/",
             "playerType": 1,
@@ -1547,7 +1547,7 @@
         },
         {
             "key": "魔抓采集资源",
-            "name": "魔爪子资源(🐉)",
+            "name": "魔爪子资源(🐦‍🔥)",
             "type": 1,
             "api": "https://mozhuazy.com/api.php/provide/vod/",
             "playerType": 1,
@@ -1556,7 +1556,7 @@
         },
         {
             "key": "如意资源",
-            "name": "如意资源(🐉)",
+            "name": "如意资源(🐦‍🔥)",
             "type": 1,
             "api": "https://www.ryzy.tv/api.php/provide/vod/",
             "searchable": 1,
@@ -1582,7 +1582,7 @@
         },
         {
             "key": "zycj_非凡",
-            "name": "非凡资源(🐉)",
+            "name": "非凡资源(🐦‍🔥)",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
             "playUrl": "",
@@ -1623,7 +1623,7 @@
         },
         {
             "key": "zycj_量子",
-            "name": "量子资源(🐉)",
+            "name": "量子资源(🐦‍🔥)",
             "type": 0,
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
@@ -1665,7 +1665,7 @@
         },
         {
             "key": "豪华资源",
-            "name": "豪华资源(🐉)",
+            "name": "豪华资源(🐦‍🔥)",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -1700,7 +1700,7 @@
         },
         {
             "key": "gszy",
-            "name": "光速资源(🐉)",
+            "name": "光速资源(🐦‍🔥)",
             "type": 1,
             "api": "https://api.guangsuapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -1720,7 +1720,7 @@
         },
         {
             "key": "木耳",
-            "name": "木耳资源(🐉)",
+            "name": "木耳资源(🐦‍🔥)",
             "type": 1,
             "api": "https://json02.heimuer.xyz/api.php/provide/vod",
             "searchable": 1,
@@ -1783,7 +1783,7 @@
         },
         {
             "key": "卧龙资源",
-            "name": "卧龙资源(🐉)",
+            "name": "卧龙资源(🐦‍🔥)",
             "type": 1,
             "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
             "searchable": 1,
@@ -1797,7 +1797,7 @@
         },
         {
             "key": "暴风影院",
-            "name": "暴风影院(🐉)",
+            "name": "暴风影院(🐦‍🔥)",
             "type": 1,
             "api": "http://bf.xoxowin86cisyap.com/api.php/provide/vod",
             "searchable": 1,
@@ -1825,7 +1825,7 @@
         },
         {
             "key": "暴风资源",
-            "name": "暴风资源(🐉)",
+            "name": "暴风资源(🐦‍🔥)",
             "type": 1,
             "api": "http://bf.xoxowin86cisyap.com/api.php/provide/vod",
             "searchable": 1,
@@ -1880,7 +1880,7 @@
         },
         {
             "key": "漫道资源",
-            "name": "漫道资源(🐉)",
+            "name": "漫道资源(🐦‍🔥)",
             "type": 1,
             "api": "http://www.mandao.site/api.php/provide/vod",
             "searchable": 1,
@@ -1918,7 +1918,7 @@
         },
         {
             "key": "快龙资源",
-            "name": "快龙资源(🐉)",
+            "name": "快龙资源(🐦‍🔥)",
             "type": 0,
             "api": "https://lz.118318.xyz/api.php/provide/vod/at/xml",
             "searchable": 1,
@@ -1965,7 +1965,7 @@
         },
         {
             "key": "黑墙资源",
-            "name": "黑墙资源(🐉)",
+            "name": "黑墙资源(🐦‍🔥)",
             "type": 0,
             "api": "https://blackwallvideo.online/api.php/provide/vod/at/xml",
             "searchable": 1,
@@ -2017,7 +2017,7 @@
         },
         {
             "key": "独播资源",
-            "name": "独播资源(🐉)",
+            "name": "独播资源(🐦‍🔥)",
             "type": 0,
             "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/xml",
             "searchable": 1,
@@ -2071,7 +2071,7 @@
         },
         {
             "key": "牛牛影视",
-            "name": "牛牛资源(🐉)",
+            "name": "牛牛资源(🐦‍🔥)",
             "type": 0,
             "api": "https://api.niuniuzy.me/api.php/provide/vod/at/xml",
             "searchable": 1,
@@ -2129,7 +2129,7 @@
         },
         {
             "key": "阿里影视",
-            "name": "阿里资源(🐉)",
+            "name": "阿里资源(🐦‍🔥)",
             "type": 1,
             "api": "https://alivod.com/api.php/provide/vod",
             "searchable": 1,
@@ -2167,7 +2167,7 @@
         },
         {
             "key": "魔都影视",
-            "name": "魔都影视(🐉)",
+            "name": "魔都影视(🐦‍🔥)",
             "type": 0,
             "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml",
             "searchable": 1,
@@ -2215,7 +2215,7 @@
         },
         {
             "key": "魔爪影视",
-            "name": "魔爪影视(🐉)",
+            "name": "魔爪影视(🐦‍🔥)",
             "type": 1,
             "api": "https://mozhuazy.com/api.php/provide/vod",
             "searchable": 1,
@@ -2258,7 +2258,7 @@
         },
         {
             "key": "高清资源",
-            "name": "高清资源(🐉)",
+            "name": "高清资源(🐦‍🔥)",
             "type": 1,
             "api": "https://api.yzzy-api.com/inc/apijson.php",
             "searchable": 1,
