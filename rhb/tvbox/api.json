@@ -1398,8 +1398,8 @@
             "filterable": 1
         },
 		{
-            "key": "xml_x细胞资源",
-            "name": "X细胞资源(🐉)",
+            "key": "xml_细胞资源",
+            "name": "细胞资源(🐉)",
             "type": 0,
             "api": "https://www.xxibaozyw.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
