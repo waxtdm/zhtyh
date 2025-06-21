@@ -122,6 +122,38 @@
       "ext": "./js/央视少儿.js"
     },
     {
+"key": "清风dj",
+            "name": "清风DJ🎵",
+            "type": 3,
+            "api": "./drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/清风DJ.js"
+        },
+	{
+            "key": "酷狗音乐",
+            "name": "酷狗音乐🎵",
+            "type": 3,
+            "api": "csp_Kugou",
+            "jar": "./jar/wpzy.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+	{
+            "key": "自制音乐频道",
+            "name": "🎵音乐电影广播🎵",
+            "type": 3,
+            "api": "./lib/直播挂件1.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "playerType": 1,
+            "filterable": 0,
+            "ext": "./lib/直播挂件2.json"
+        },
+    {
       "key": "热播影视",
       "name": "☀热播🔹影视",
       "type": 3,
