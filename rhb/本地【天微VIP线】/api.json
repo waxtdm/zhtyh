@@ -133,8 +133,18 @@
             "ext": "./js/清风DJ.js"
         },
 	{
+            "key": "酷狗音乐",
+            "name": "酷狗音乐🎵",
+            "type": 3,
+            "api": "csp_Kugou",
+            "jar": "./lib/wpzy.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+	{
             "key": "自制音乐频道",
-            "name": "Diy音乐电影广播",
+            "name": "🎵音乐电影广播🎵",
             "type": 3,
             "api": "./lib/直播挂件1.js",
             "searchable": 1,
