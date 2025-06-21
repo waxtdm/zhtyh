@@ -1401,7 +1401,7 @@
             "key": "xml_细胞资源",
             "name": "细胞资源(🐉)",
             "type": 0,
-            "api": "https://www.xxibaozyw.com/api.php/provide/vod/at/xml/",
+            "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
