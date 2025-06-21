@@ -597,6 +597,20 @@
       "playerType": 1,
       "ext": "http://api2.rinhome.com"
     },
+  {
+            "key": "盘Ta",
+            "name": "盘Ta网盘🐉4k",
+            "type": 3,
+            "api": "csp_PanTa",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "jar": "./jar/wpzy.jar",
+            "ext": {
+                "siteUrl": "https://www.91panta.cn/",
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+            }
+        },	
     {
       "key": "玩偶哥哥",
       "name": "💿玩偶🔹盘4K",
