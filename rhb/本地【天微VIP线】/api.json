@@ -125,7 +125,7 @@
             "key": "自制音乐频道",
             "name": "Diy音乐电影广播",
             "type": 3,
-            "api": "./lib/apiv237直播挂件1.js",
+            "api": "./lib/直播挂件1.js",
             "searchable": 1,
             "quickSearch": 0,
             "playerType": 1,
