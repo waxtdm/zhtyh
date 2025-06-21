@@ -16,6 +16,10 @@
         {
             "name": "📚【饭太硬】｜在线📚",
             "url": "http://www.饭太硬.com/tv"
+        },
+        {
+            "name": "📚【VIP线】｜本地仓库📚",
+            "url": "https://github.moeyy.xyz/raw.githubusercontent.com/waxtdm/zhtyh/refs/heads/main/rhb/tvbox/api.json"
         }
     ]
 }
