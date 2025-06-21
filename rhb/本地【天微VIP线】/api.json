@@ -137,7 +137,7 @@
             "name": "酷狗音乐🎵",
             "type": 3,
             "api": "csp_Kugou",
-            "jar": "./lib/wpzy.jar",
+            "jar": "./jar/wpzy.jar",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
