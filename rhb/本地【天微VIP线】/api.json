@@ -619,7 +619,7 @@
             "jar": "./lib/wpzy.jar",
             "ext": {
                 "siteUrl": "https://www.91panta.cn/",
-                "commonConfig": "./json/peizhi.json"
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
             }
         },
         {
