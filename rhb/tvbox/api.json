@@ -2587,6 +2587,11 @@
       "type": 0,
       "url": "https://t2.qlplayer.cyou/player/analysis.php?v="
     },
+	{
+      "name": "华为吧采集专用",
+      "type": 0,
+      "url": "https://dp.hw8.live/player/?url="
+    },
     {
       "name": "解析7",
       "type": 0,
