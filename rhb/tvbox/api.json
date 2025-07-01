@@ -153,6 +153,16 @@
             "filterable": 0,
             "ext": "./lib/直播挂件2.json"
         },
+		 {
+            "key": "切片6",
+            "name": "自用┃4K1",
+            "type": 1,
+            "jar": "./jar/Yoursmile.jar",
+            "api": "http://6.qqqtv.top/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
       "key": "热播影视",
       "name": "☀热播🔹影视",
