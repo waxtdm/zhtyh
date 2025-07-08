@@ -140,6 +140,20 @@
             "quickSearch": 0,
             "filterable": 0
         },
+		   {
+            "key": "lf_live10_min-output",
+            "name": "diy电视 | 直播[js]",
+            "type": 3,
+            "api": "./lib/lf_live10_min-output.js",
+            "style": {
+                "type": "oval"
+            },
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/lf_live.txt"
+        },
 	{
             "key": "自制音乐频道",
             "name": "🎵音乐电影广播🎵",
