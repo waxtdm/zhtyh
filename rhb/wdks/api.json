@@ -285,14 +285,7 @@
       "filterable": 1,
       "timeout": 25
     },
-    {
-      "key": "玩偶资源",
-      "name": "👽玩偶资源",
-      "type": 1,
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 0
-    },
+    
     {
       "key": "仓鼠",
       "name": "仓鼠｜APP",
@@ -542,20 +535,7 @@
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
-    {
-      "key": "金牌影视",
-      "name": "金牌｜影视",
-      "type": 3,
-  "jar": "https://lz.qaiu.top/d/lz/ijfdS2y7122j",
-      "api": "http://150.158.112.123/jar/py/jp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-      }
-    },
+    
     {
       "key": "小红",
       "name": "小红┃影视",
@@ -636,13 +616,7 @@
 	"changeable": 1,
 	"categories": ["动作片", "喜剧片", "科幻片", "恐怖片", "爱情片", "剧情片", "战争片", "记录片", "国产剧", "欧美剧", "香港剧", "韩国剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]
 },
-    {
-      "key": "牛牛",
-      "name": "牛牛影视",
-      "type": 3,
-      "api": "https://13826.kstore.space/mioaying.py",
-      "ext": ""
-    },
+    
 
     {
       "key": "哔哩",
@@ -1618,15 +1592,7 @@
       "api": "http://150.158.112.123/js/dr/drpy2.min.js",
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/82d4b21cc0d8492898457b256010bd98.jpg"
     },
-    {
-      "key": "MV大全",
-      "name": "MV┃音乐",
-      "type": 4,
-      "api": "http://120.53.102.254/dsp/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "ngys",
       "name": "南瓜┃影视",
@@ -1914,35 +1880,7 @@
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=zzys"
     },
-    {
-      "key": "kkzy",
-      "name": "快看┃资源",
-      "type": 1,
-      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playurl": "json:http://110.42.3.99:880/rmm.php/?url=",
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "国产动漫",
-        "日韩剧",
-        "欧美剧",
-        "海外剧",
-        "动作片",
-        "爱情片",
-        "剧情片",
-        "科幻片",
-        "奇幻片",
-        "战争片",
-        "犯罪片",
-        "恐怖片",
-        "悬疑片",
-        "惊悚片",
-        "冒险片"
-      ]
-    },
+    
     {
       "key": "36zy",
       "name": "三六┃资源",
@@ -3066,40 +3004,7 @@
         "欧美动漫"
       ]
     },
-    {
-      "key": "快车资源",
-      "name": "快车采集┃有广",
-      "type": 1,
-      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "战争片",
-        "剧情片",
-        "动画片",
-        "纪录片",
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "泰国剧",
-        "海外剧",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺"
-      ]
-    },
+    
     {
       "key": "索尼资源",
       "name": "索尼采集┃有广",
